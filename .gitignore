@@ -46,3 +46,7 @@ user.props
 # Generated rst files
 ######################
 genrst/
+
+# Virtual venv files
+####################
+venv/
