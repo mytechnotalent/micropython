@@ -29,6 +29,10 @@ build-*/
 ######################
 tests/results/*
 
+# Virtual env directory
+#######################
+venv/
+
 # Python cache files
 ######################
 __pycache__/
