@@ -279,7 +279,3 @@ typedef long mp_off_t;
 #ifndef MICROPY_HW_ENABLE_MDNS_RESPONDER
 #define MICROPY_HW_ENABLE_MDNS_RESPONDER    (1)
 #endif
-
-
-// custom modules
-#define MODULE_EXAMPLE_ENABLED (1)
